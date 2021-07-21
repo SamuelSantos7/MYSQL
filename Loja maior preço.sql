@@ -1,0 +1,1 @@
+SELECT * FROM db_loja.tb_produtos where preço > 500
